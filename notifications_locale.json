@@ -1,0 +1,27 @@
+{  "us_US": {
+    "new_event": "There is a new task for you here \uD83E\uDD14",
+    "delete_event": "The task that was scheduled for you has just been deleted, extra! \uD83D\uDE0E",
+    "confirm_work_time": "Your work time has just been confirmed, extra! \uD83D\uDC4C\uD83C\uDFFC",
+    "confirm_schedule": "Your schedule has just been approved  \uD83D\uDC4C\uD83C\uDFFC",
+    "create_schedule": "There is a new schedule scheduled for you here \uD83D\uDCC5",
+    "delete_schedule": "Your graphic has been deleted",
+    "create_announcement": "There's a new announcement on your team \uD83D\uDC40",
+    "update_announcement": "An announcement has been updated in your team! \uD83D\uDCDD ",
+    "delete_announcement": "An announcement has been removed in your team \uD83D\uDC40",
+    "promotion": "Wow, you just got promoted to team moderator! Congratulations! \uD83D\uDE0E",
+    "message": "To Group"
+  },
+  "pl_PL": {
+    "new_event": "Jest tu dla Ciebie jakieś nowe zadanie \uD83E\uDD14",
+    "delete_event": "Zadanie, które było dla Ciebie zaplanowane właśnie zostało usunięte, ekstra! \uD83D\uDE0E",
+    "confirm_work_time": "Twój czas pracy został własnie zatwierdzony, ekstra! \uD83D\uDC4C\uD83C\uDFFC",
+    "confirm_schedule": "Twój grafik został właśnie zatwierdzony \uD83D\uDC4C\uD83C\uDFFC",
+    "create_schedule": "Jest tu dla Ciebie zaplanowany jakiś nowy grafik \uD83D\uDCC5",
+    "delete_schedule": "Twój grafik został usunięty",
+    "create_announcement": "W Twoim zespole znaduje się nowe ogłoszenie \uD83D\uDC40",
+    "update_announcement": "W Twoim zespole uaktualniono ogłoszenie! \uD83D\uDCDD",
+    "delete_announcement": "W Twoim zespole usunięto ogłoszenie \uD83D\uDC40",
+    "promotion": "Wow, właśnie zostałeś promowany na moderatora zespołu! Gratulacje! \uD83D\uDE0E",
+    "message": "Do grupy"
+  }
+}

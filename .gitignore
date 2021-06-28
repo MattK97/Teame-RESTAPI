@@ -1,0 +1,3 @@
+venv/
+migrations/
+.DS_Store
